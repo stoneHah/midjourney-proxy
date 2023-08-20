@@ -1,9 +1,13 @@
 mj:
   discord:
-    guild-id: xxx
-    channel-id: xxx
-    user-token: xxx
-    session-id: 9c4055428e13bcbf2248a6b36084c5f3
+#    guild-id: 1129250141640065225
+#    channel-id: 1139115075777601586
+#    user-token: MTAxNDI3OTU4MzkyNDc1MjQxNQ.Gmo1zd.dJem8gZkwxgmaP_fh3vrAy7Q-KDbjlTDCdjvhA
+#    session-id: f162ac3e0f3537fc374c509c7b1c1974
+    guild-id:   1142306521640861756
+    channel-id: 1142306522395840604
+    user-token: MTEwODA4MjQyNTQxMTY3MDA3Ng.GwKovc.D889MqzHEBL0ADPZGEV4hzJCW_OG2A1FpX9ew0
+    session-id: 4b25457d645cf5144ab9287080131f46
     user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
   task-store:
     type: in_memory
@@ -13,3 +17,6 @@ mj:
     timeout-minutes: 5
     core-size: 3
     queue-size: 10
+  proxy:
+    host: 127.0.0.1
+    port: 10809
