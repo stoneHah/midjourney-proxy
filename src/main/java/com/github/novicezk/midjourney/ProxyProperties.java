@@ -60,6 +60,8 @@ public class ProxyProperties {
 	 */
 	private boolean includeTaskExtended = false;
 
+	private String imageUrl;
+
 	@Data
 	public static class DiscordConfig {
 		/**

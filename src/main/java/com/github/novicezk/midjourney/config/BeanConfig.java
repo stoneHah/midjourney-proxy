@@ -1,4 +1,4 @@
-package spring.config;
+package com.github.novicezk.midjourney.config;
 
 import com.github.novicezk.midjourney.ProxyProperties;
 import com.github.novicezk.midjourney.service.TaskStoreService;
