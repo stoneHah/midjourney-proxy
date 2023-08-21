@@ -7,7 +7,7 @@ mj:
     guild-id:   1142306521640861756
     channel-id: 1142306522395840604
     user-token: MTEwODA4MjQyNTQxMTY3MDA3Ng.GpvCGT.B7Xx2uIwGMLAmY0TfXNiZK1nyQOHD4ZhxdKADU
-    session-id: 4b25457d645cf5144ab9287080131f46
+    session-id: 1632704851e07a7a31339b99e31962c2
     user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
   task-store:
     type: in_memory
